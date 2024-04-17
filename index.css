@@ -1,0 +1,95 @@
+body{ background-color: #fffcf2;
+  padding: 10px 10px;
+}
+
+a{color: #fffcf2;}
+h2{color: aliceblue;}
+
+header{ background-color: #252422;
+  margin: 10px;
+  padding: 30px;
+
+}
+
+.navigation {
+  text-align: center;
+  
+}
+
+button{
+  width: 120px;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: #252422;
+  color: #fffcf2;
+}
+
+
+
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{ 
+  border-radius: 500px;
+  border: 15px solid orangered;
+  height: 290px;
+  width: 290px;
+}
+
+iframe{
+  border-radius: 60px;
+  height: 350px;
+  width: 380px;
+}
+
+#Main{
+  color: #252422;
+  border-radius: 17px;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+  background-color: #ccc5b9;
+}
+
+#About{
+  color: rgb(214, 213, 213);
+  border-radius: 17px;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+  background-color: #403d39;
+}
+
+#CONTACT{
+  color: rgb(214, 213, 213);
+  text-align: center;
+}
+
+#Emailform{
+  border-radius: 17px;
+  padding: 50px;
+  margin: 20px;
+  background-color: #403d39;
+}
+
+
+form{
+  text-align: center;
+color: #fffcf2;
+}
+
+
+footer{
+  border-radius: 17px;
+  background-color: #eb5e28;
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+
+}
+
+#footer {
+  margin: 10px;
+  padding: 30px;
+}
