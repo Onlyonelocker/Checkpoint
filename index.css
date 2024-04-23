@@ -8,12 +8,16 @@ h2{color: aliceblue;}
 header{ background-color: #252422;
   margin: 10px;
   padding: 30px;
-
 }
 
 .navigation {
-  text-align: center;
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.navigation a{text-decoration: none;
 }
 
 button{
@@ -23,8 +27,6 @@ button{
   background-color: #252422;
   color: #fffcf2;
 }
-
-
 
 body{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -46,8 +48,8 @@ iframe{
 #Main{
   color: #252422;
   border-radius: 17px;
-  padding: 30px;
-  margin: 20px;
+  padding: 35px;
+  margin: 10px;
   text-align: center;
   background-color: #ccc5b9;
 }
@@ -56,10 +58,66 @@ iframe{
   color: rgb(214, 213, 213);
   border-radius: 17px;
   padding: 30px;
-  margin: 20px;
+  margin: 7px;
   text-align: center;
   background-color: #403d39;
 }
+
+#Work{
+color: rgb(214, 213, 213);
+  border-radius: 17px;
+  padding: 30px;
+  margin: 7px;
+  text-align: center;
+  background-color: #403d39;
+}
+
+#Work{
+  align-items: center;
+  display: block;
+  justify-content: center;
+}
+
+.boxes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+#box1{
+height: 200px;
+width: 200px;
+background-color: #ccc5b9;
+border-radius: 30px;
+}
+#box2{
+height: 200px;
+width: 200px;
+background-color: #ccc5b9;
+border-radius: 30px;
+}
+#box3{
+height: 200px;
+width: 200px;
+background-color: #ccc5b9;
+border-radius: 30px;
+}
+#box4{
+height: 200px;
+width: 200px;
+background-color: #ccc5b9;
+border-radius: 30px;
+}
+
+.resume{
+  color: rgb(214, 213, 213);
+    border-radius: 17px;
+    padding: 30px;
+    margin: 7px;
+    text-align: center;
+    background-color: #403d39;
+  }
 
 #CONTACT{
   color: rgb(214, 213, 213);
@@ -69,7 +127,7 @@ iframe{
 #Emailform{
   border-radius: 17px;
   padding: 50px;
-  margin: 20px;
+  margin: 5px;
   background-color: #403d39;
 }
 
@@ -79,17 +137,16 @@ form{
 color: #fffcf2;
 }
 
-
 footer{
   border-radius: 17px;
   background-color: #eb5e28;
-  margin: 10px;
+  margin: 12px;
   padding: 30px;
   text-align: center;
-
 }
 
 #footer {
   margin: 10px;
   padding: 30px;
 }
+
