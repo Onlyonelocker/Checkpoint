@@ -1,12 +1,19 @@
-body{ background-color: #fffcf2;
+body{ 
+  background-color: #fffcf2;
   padding: 10px 10px;
 }
+
+body{
+  font-family:"Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
 
 a{color: #fffcf2;}
 h2{color: aliceblue;}
 
 header{ background-color: #252422;
-  margin: 10px;
+  margin: 0px 5px;
   padding: 30px;
 }
 
@@ -28,10 +35,6 @@ button{
   color: #fffcf2;
 }
 
-body{
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
 img{ 
   border-radius: 500px;
   border: 15px solid orangered;
@@ -47,29 +50,26 @@ iframe{
 
 #Main{
   color: #252422;
-  border-radius: 17px;
-  padding: 35px;
-  margin: 10px;
+  margin: 0px 5px;
+  padding: 30px;
   text-align: center;
   background-color: #ccc5b9;
 }
 
 #About{
-  color: rgb(214, 213, 213);
-  border-radius: 17px;
+  color: rgb(0, 0, 0);
+  margin: 0px 5px;
   padding: 30px;
-  margin: 7px;
   text-align: center;
-  background-color: #403d39;
+  background-color:  #ccc5b9;
 }
 
 #Work{
-color: rgb(214, 213, 213);
-  border-radius: 17px;
+color: rgb(0, 0, 0);
   padding: 30px;
   margin: 7px;
   text-align: center;
-  background-color: #403d39;
+  background-color: #ccc5b9;
 }
 
 #Work{
@@ -88,57 +88,54 @@ color: rgb(214, 213, 213);
 #box1{
 height: 200px;
 width: 200px;
-background-color: #ccc5b9;
+background-color: #93afaf;
 border-radius: 30px;
 }
 #box2{
 height: 200px;
 width: 200px;
-background-color: #ccc5b9;
+background-color: #93afaf;
 border-radius: 30px;
 }
 #box3{
 height: 200px;
 width: 200px;
-background-color: #ccc5b9;
+background-color: #93afaf;
 border-radius: 30px;
 }
 #box4{
 height: 200px;
 width: 200px;
-background-color: #ccc5b9;
+background-color: #93afaf;
 border-radius: 30px;
 }
 
 .resume{
-  color: rgb(214, 213, 213);
-    border-radius: 17px;
+  color: rgb(0, 0, 0);
     padding: 30px;
     margin: 7px;
     text-align: center;
-    background-color: #403d39;
+    background-color: #ccc5b9;
   }
 
 #CONTACT{
-  color: rgb(214, 213, 213);
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 
 #Emailform{
-  border-radius: 17px;
   padding: 50px;
   margin: 5px;
-  background-color: #403d39;
+  background-color: #ccc5b9;
 }
 
 
 form{
   text-align: center;
-color: #fffcf2;
+color: #000000;
 }
 
 footer{
-  border-radius: 17px;
   background-color: #eb5e28;
   margin: 12px;
   padding: 30px;
@@ -146,7 +143,7 @@ footer{
 }
 
 #footer {
-  margin: 10px;
+  margin: 0px 5px;
   padding: 30px;
 }
 
